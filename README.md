@@ -1,4 +1,4 @@
-A collection of basic sorting algorithms implemented as static methods. The [SortLib](https://github.com/financeCoding/dart-sorting-algorithms/blob/master/src/SortLib/SortLib.dart) contains the binding library to import them into your project. The algorithms could also be directly source since they have no dependencies outside of dart:core. 
+A collection of basic sorting algorithms implemented as static methods. The [SortLib](https://github.com/financeCoding/dart-sorting-algorithms/blob/master/src/SortLib/SortLib.dart) contains the binding library to import them into a project. The algorithms could also be directly source since they have no dependencies outside of dart:core. 
 
 * [Bubble](https://github.com/financeCoding/dart-sorting-algorithms/blob/master/src/BubbleSort/Bubble.dart)
 * [Heap](https://github.com/financeCoding/dart-sorting-algorithms/blob/master/src/HeapSort/HeapSort.dart)
