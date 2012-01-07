@@ -10,4 +10,5 @@ A collection of basic sorting algorithms implemented as static methods. The [Sor
 * [Shell](https://github.com/financeCoding/dart-sorting-algorithms/blob/master/src/ShellSort/Shell.dart)
 
 [Referenced implementations](http://algs4.cs.princeton.edu/)
+
 [Referenced Documentation](http://www.sorting-algorithms.com/)
